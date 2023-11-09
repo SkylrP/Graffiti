@@ -8,3 +8,8 @@ This is a site to help me log my progress throughout my TikTok Graffiti Tutorial
 1. Post on TikTok every other day.
 2. Edit and record videos everyday.
 3. Have fun with it!
+
+#### Series Ideas
+1. Alphabet tutorials
+2. Words with voiceovers
+3. Practice
