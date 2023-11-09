@@ -1,0 +1,26 @@
+body {
+    background-color: #f0f8ff; /* Pastel blue */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    width: 80%;
+    background-color: #e6e6fa; /* Pastel purple */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /* Floating effect */
+}
+
+/* You can add more color styles for different elements */
+h1 {
+    color: #addfad; /* Pastel green */
+}
+
+p {
+    color: #ffb6c1; /* Pastel pink */
+}
